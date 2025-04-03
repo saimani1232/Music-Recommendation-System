@@ -29,9 +29,6 @@ Imagine a music streaming experience that truly understands your taste! This pro
 ## 📌 **Why This Matters**  
 With millions of tracks available, finding the perfect song can be overwhelming. This system **removes the guesswork**, delivering a curated listening experience tailored to individual tastes.  
 
-## 📜 **License**  
-This project is licensed under the **MIT License**. See the LICENSE file for details.  
-
 ## 🙌 **Acknowledgments**  
 Big thanks to:  
 ✅ **Kaggle** for providing the **Spotify dataset**.  
