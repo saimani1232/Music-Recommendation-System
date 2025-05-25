@@ -1,4 +1,4 @@
-# 🎵 **Music Recommendation System**  
+# 🎵 **Melodex**  
 
 ## 🚀 **Introduction**  
 Imagine a music streaming experience that truly understands your taste! This project builds a **Music Recommendation System** using **Machine Learning** to suggest songs tailored to each user. By analyzing listening history and song properties, the system predicts tracks you’ll love, enhancing user engagement and personalization.  
